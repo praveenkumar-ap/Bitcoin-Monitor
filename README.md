@@ -8,7 +8,7 @@
 
 # Bitcoin Monitor
 
-This is an ETL pipeline to pull bitcoin exchange data from [CoinCap API](https://docs.coincap.io/) and load it into our data warehouse. For more details check out the blog at https://startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/
+This is an ETL pipeline to pull bitcoin exchange data from [CoinCap API](https://docs.coincap.io/) and load it into  data warehouse. 
 
 ## Run Data Pipeline
 
