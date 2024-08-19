@@ -12,7 +12,7 @@ This is an ETL pipeline to pull bitcoin exchange data from [CoinCap API](https:/
 
 ## Run Data Pipeline
 
-Code available at **[bitcoinMonitor](https://github.com/josephmachado/bitcoinMonitor/tree/main)** repository.
+Code available at **[bitcoinMonitor](https://github.com/praveenkumar-ap/Bitcoin-Monitor/tree/main)** repository.
 
 ### Run on codespaces
 
