@@ -65,5 +65,5 @@ We use python to pull, transform and load data. Our warehouse is postgres. We al
 
 All of the components are running as docker containers.
 
-Read **[this post](https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/)**, for information on setting up CI/CD, IAC(terraform), "make" commands and automated testing.
+
 
