@@ -18,7 +18,7 @@ Code available at **[bitcoinMonitor](https://github.com/praveenkumar-ap/Bitcoin-
 
 You can run this data pipeline using GitHub codespaces. Follow the instructions below.
 
-1. Create codespaces by going to the **[bitcoinMonitor](https://github.com/josephmachado/bitcoinMonitor/tree/main)** repository, forking it and then clicking on `Create codespaces on main` button.
+1. Create codespaces by going to the **[bitcoinMonitor](https://github.com/praveenkumar-ap/Bitcoin-Monitor/tree/main)** repository, forking it and then clicking on `Create codespaces on main` button.
 2. Wait for codespaces to start, then in the terminal type `make up`.
 3. Wait for `make up` to complete, and then wait for 30s (give Metabase sometime to setup).
 4. After 30s go to the `ports` tab and click on the link exposing port `3000` to access Metabase UI (username and password is `sdeuser` and `sdepassword1234` respectively). See `metabase connection settings` screenshot below for connection details.
